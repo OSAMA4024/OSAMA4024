@@ -1,79 +1,80 @@
+<div align="center">
 
-# 👋 Hi, I'm Muhammad Osama
+# 👋 Hello, I'm Muhammad Osama
 
-🎓 Computer Science Student | 💻 Flutter Developer | 🌐 Digital & IT Automation Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;CS+Student;DevOps+Explorer;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm Muhammad Osama, a passionate Computer Science student from the University of Peshawar. I specialize in building sleek, scalable mobile applications using Flutter and constantly explore how technology can automate processes, improve lives, and create meaningful digital experiences.
+I am a **Computer Science student** and passionate **Flutter Developer** from Pakistan 🇵🇰.  
+I enjoy building mobile apps, solving problems, and learning modern technologies like **Flutter, DevOps, and Cloud Computing**.
 
-Beyond development, I’m actively certified in IT automation and digital marketing, with a keen interest in merging technology with outreach strategies.
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** Dart, Python, JavaScript, C++
-- **Mobile:** Flutter, Firebase
-- **Backend:** REST APIs, Firebase Cloud Functions
-- **Database:** SQLite, Firebase Firestore
-- **Tools:** Git & GitHub, Postman, Figma, VS Code
-- **Other Skills:** Social Media Management, Graphic Design, Email Marketing
+- 🔭 Currently working on Flutter mobile applications
+- 🌱 Learning DevOps, Backend Development & Cloud
+- 👯 Looking to collaborate on open-source projects
+- 💬 Ask me about Flutter, Dart, Firebase, Git & GitHub
+- ⚡ Fun fact: I love turning ideas into real working apps
 
 ---
 
-## 📜 Certifications
+## 🛠️ Tech Stack
 
-- ✅ **Flutter Bootcamp** – GDSC VU Attock
-- ✅ **IT Automation with Python** – Google/Coursera
-- ✅ **Digital Marketing Fundamentals** – Google Digital Garage
-- ✅ **Email Marketing Strategy** – HubSpot Academy
-- ✅ **JavaScript Portfolio with GitHub Codespaces**
-- ✅ **Data Science Foundations** – Great Learning
-- ✅ **Graphic Design Workshop** – Frontier Corps
-- ✅ **Social Media Management Workshop** – Frontier Corps
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
----
-https://github.com/LondheShubham153#-github-stats
-## 📚 Ongoing Projects
-
-- 📱 **Flutter 60-Day Challenge**: Developing mobile apps daily using Flutter & Dart
-- 💡 **Smart Home Automation System**: 30-day IoT + Flutter project
-- 🌾 **Krishi Dost – Smart Agriculture App**: Empowering farmers with AI-driven solutions
-
----
-
-## 🌱 I’m Currently Learning
-
-- Full-stack Flutter (Backend + Frontend)
-- API Development & Integration
-- Business Automation Tools
-- Email Marketing Funnels
+### ☁️ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ---
 
-## 🏆 Other Roles & Achievements
+## 📊 GitHub Stats
 
-- 🎙 Active webinar speaker and community contributor
-- 🧠 Certified in multiple domains (development + marketing)
-- 📈 Combining tech + marketing for digital transformation
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
 
-## 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-osama-296461129/)
-- 📩 Email: sayyedmuhammadosama@gmail.com
-- 🌐 Portfolio (coming soon...)
+</div>
 
 ---
 
-## 💡 Fun Fact
+## 🔥 GitHub Streak
 
-I’m from **Bajaur**, a region where tech is still finding its roots. I aspire to bring digital opportunities, especially in **female IT education**, to the Merged Districts of Pakistan.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+
+</div>
 
 ---
 
-> 🌟 *"Code smarter. Automate faster. Reach wider."*
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Keep learning, keep building 🚀"
+
+</div>
