@@ -11,13 +11,13 @@
 ## 🚀 About Me
 
 I am a **Computer Science student** and passionate **Flutter Developer** from Pakistan 🇵🇰.  
-I enjoy building mobile apps, solving problems, and learning modern technologies like **Flutter, DevOps, and Cloud Computing**.
+I enjoy building mobile apps, solving real-world problems, and learning modern technologies.
 
-- 🔭 Currently working on Flutter mobile applications
-- 🌱 Learning DevOps, Backend Development & Cloud
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about Flutter, Dart, Firebase, Git & GitHub
-- ⚡ Fun fact: I love turning ideas into real working apps
+- 🔭 Currently working on Flutter mobile apps & university projects  
+- 🌱 Learning DevOps, Backend Development & Cloud Computing  
+- 👯 Looking to collaborate on open-source projects  
+- 💬 Ask me about Flutter, Dart, Firebase, Git & GitHub  
+- ⚡ Fun fact: I love turning ideas into real working apps  
 
 ---
 
@@ -31,7 +31,7 @@ I enjoy building mobile apps, solving problems, and learning modern technologies
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-### ☁️ Tools & Platforms
+### 🔧 Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -45,8 +45,8 @@ I enjoy building mobile apps, solving problems, and learning modern technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=OSAMA4024&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMA4024&layout=compact&theme=tokyonight" height="165">
 
 </div>
 
@@ -56,7 +56,7 @@ I enjoy building mobile apps, solving problems, and learning modern technologies
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA4024&theme=tokyonight">
 
 </div>
 
@@ -66,8 +66,8 @@ I enjoy building mobile apps, solving problems, and learning modern technologies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-OSAMA4024-black?style=for-the-badge)](https://github.com/OSAMA4024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Osama-blue?style=for-the-badge)](https://www.linkedin.com/in/muhammad-osamabjr/)
 
 </div>
 
@@ -75,6 +75,6 @@ I enjoy building mobile apps, solving problems, and learning modern technologies
 
 <div align="center">
 
-### 💡 "Keep learning, keep building 🚀"
+### 💡 "Keep building, keep learning 🚀"
 
 </div>
