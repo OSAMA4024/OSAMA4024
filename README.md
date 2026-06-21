@@ -83,9 +83,11 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 
 ## 🏆 GitHub Achievements
 
+
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OSAMA4024&theme=algolia&margin-w=15&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=OSAMA4024&theme=algolia&margin-w=15&column=6&no-frame=true"/>
 
 </div>
 
