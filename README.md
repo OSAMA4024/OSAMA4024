@@ -41,7 +41,7 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 
 
 ---
-
+<img src="https://github.com/OSAMA4024?tab=achievements" height="165">
 ## 📊 GitHub Stats
 
 <div align="center">
