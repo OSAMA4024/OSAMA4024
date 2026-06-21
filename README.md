@@ -24,7 +24,7 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-<div style="display: flex; justify-content: center; align-items: center; gap: 25px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100"/>
