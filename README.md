@@ -52,7 +52,13 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 </div>
 
 ---
+## 🏆 GitHub Achievements
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OSAMA4024&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ## 🔥 GitHub Streak
 
 <div align="center">
