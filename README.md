@@ -81,17 +81,6 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 
 ---
 
-## 📊 GitHub Achievements Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OSAMA4024&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA4024&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🎯 Currently Learning
 
