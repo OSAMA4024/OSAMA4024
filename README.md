@@ -24,34 +24,37 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="100" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/>
 </p>
 
 ### 🔧 Tools
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="100" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80"/>
 </p>
 
-
 ---
-<img src="https://github.com/OSAMA4024?tab=achievements" height="165">
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OSAMA4024&show_icons=true&theme=tokyonight" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMA4024&layout=compact&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=OSAMA4024&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMA4024&layout=compact&theme=tokyonight" height="165"/>
 
 </div>
 
 ---
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -59,11 +62,14 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 [![trophy](https://github-profile-trophy.vercel.app/?username=OSAMA4024&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA4024&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA4024&theme=tokyonight"/>
 
 </div>
 
