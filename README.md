@@ -8,6 +8,16 @@
 
 ---
 
+## 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=OSAMA4024&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I am a **Computer Science student** and passionate **Flutter Developer** from Pakistan 🇵🇰.  
@@ -23,22 +33,8 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/>
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,javascript,git,github,firebase,linux" />
 </p>
 
 ---
@@ -55,16 +51,6 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OSAMA4024&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -72,6 +58,45 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMA4024&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OSAMA4024&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OSAMA4024&theme=algolia&margin-w=15&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- 🚀 DevOps (Docker, CI/CD, Linux)
+- ☁️ Cloud (Firebase, AWS basics)
+- 📱 Advanced Flutter Architecture
+- 🧠 Backend (Node.js / APIs)
 
 ---
 
