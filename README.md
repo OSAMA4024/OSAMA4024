@@ -24,8 +24,9 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="100"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="100" />
+  
   
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100"/>
