@@ -24,26 +24,20 @@ I enjoy building mobile apps, solving real-world problems, and learning modern t
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 25px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="100" />
-  
-  
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100"/>
-
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100"/>
-
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100"/>
-</p>
+</div>
+
 
 ### 🔧 Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100"/>
 </p>
 
 ---
